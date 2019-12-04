@@ -10,3 +10,5 @@ Pin 16 - output to sensor 1 (TRIG)
 Pin 15 - output to sensor 2 (TRIG)
 Pin 18 - input from sensor 1 (ECHO)
 Pin 22 - input from sensor 2 (ECHO)
+
+![obstacle sensor](img.jpg)
